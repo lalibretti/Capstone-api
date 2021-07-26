@@ -1,13 +1,13 @@
 # Tasks to do
 
-----------------
+> Quiz Creator built with node.js and sequelize
 --------------------------------------
 
-> Create an API route to support creating an answer in the database. Your route might look like this: /questions/:questionId/answers POST
+ ~~Create an API route to support creating an answer in the database. Your route might look like this: /questions/:questionId/answers POST~~
 
-> Create an API route to support listing all the answers for a question in the database. Your route might look like this: /questions/:questionId/answers GET
+~~Create an API route to support listing all the answers for a question in the database. Your route might look like this: /questions/:questionId/answers GET~~
 
-> Update the get answers route by sending back quetionID as req.query from front end UI
+~~Update the get answers route by sending back quetionID as req.query from front end UI~~
 
 ~~Create API routes to support UI~~
 
